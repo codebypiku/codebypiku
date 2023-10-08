@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Core Java | DSA | Oops Concept**
 
-- 📫 How to reach me **[Linkeddin](https://www.linkedin.com/in/priyanka-kumari-8739b9150/)**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/priyanka-kumari-8739b9150/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
